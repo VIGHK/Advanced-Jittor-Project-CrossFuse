@@ -1,0 +1,20 @@
+# python cache
+__pycache__/
+*.pyc
+
+# logs & outputs
+logs/
+output/
+*.log
+
+# datasets / large assets (按需保留或外链)
+images/M3FD_Fusion/
+images/21_pairs_tno/
+images/40_vot_tno/
+
+# trained models
+models/my_trained_models/
+
+# other
+database/
+
